@@ -97,9 +97,7 @@ if _name=='main_':
 ## MobileRobot Movement Video:
 
 <br>our video in Youtube<br/> 
-<body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/NmZDwi1Hzgs?si=pJ0kVojI07C99vo3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</body>
+https://www.youtube.com/watch?v=NmZDwi1Hzgs&ab_channel=TECH
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
