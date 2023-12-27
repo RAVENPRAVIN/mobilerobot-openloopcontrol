@@ -88,7 +88,7 @@ if _name=='main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![rr](https://github.com/RAVENPRAVIN/mobilerobot-openloopcontrol/assets/146820534/2c86b4d5-c12e-4d10-b936-fe00943d6668)
 ![r1](https://github.com/RAVENPRAVIN/mobilerobot-openloopcontrol/assets/146820534/b0c53d6a-a510-4bf3-a8bf-170fbe3d2bc7)
 ![r2](https://github.com/RAVENPRAVIN/mobilerobot-openloopcontrol/assets/146820534/361b3a1b-2dd1-41e4-93ba-6a7ccc265255)
 ![r3](https://github.com/RAVENPRAVIN/mobilerobot-openloopcontrol/assets/146820534/f6f959b6-fa85-459d-88c2-e0e41d8d769e)
@@ -96,9 +96,10 @@ if _name=='main_':
 
 ## MobileRobot Movement Video:
 
-our video in Youtube and paste your video-id here
-https://www.youtube.com/watch?v=NmZDwi1Hzgs&ab_channel=TECH
-
+<br>our video in Youtube<br/> 
+<body>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NmZDwi1Hzgs?si=pJ0kVojI07C99vo3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
